@@ -1,9 +1,9 @@
 # my-mpv
 Guide to use my mpv settings
 requires
-	+ [yt-dlp](https://github.com/yt-dlp/yt-dlp) 
-	+ [ffmpeg](https://github.com/FFmpeg/FFmpeg)
-	+ [mpv-mpris](https://github.com/hoyon/mpv-mpris) for media controls
++ [yt-dlp](https://github.com/yt-dlp/yt-dlp) 
++ [ffmpeg](https://github.com/FFmpeg/FFmpeg)
++ [mpv-mpris](https://github.com/hoyon/mpv-mpris) for media controls
 
 ## Youtube downloads
 + configs ''' $HOME/.config/mpv/script-opts/youtube-download.conf '''
