@@ -8,7 +8,7 @@ requires
 ## Youtube downloads
 + configs `$HOME/.config/mpv/script-opts/youtube-download.conf`
 + shortcut config `$HOME/.config/mpv/input.conf`
- 
++ current download location `$HOME/Videos/youtube/`
 
 + CTRL + d	downloads youtube video as mp4
 + CTRL + a	youtube audio only
@@ -17,6 +17,8 @@ requires
 
 ## Videocut
 ![Horizon](/screenshot/videocutter.png)
+
++ current location for cutted videos `$HOME/Videos/cuts`
 press c to start videocut menu
 
 ## Some links to scripts
