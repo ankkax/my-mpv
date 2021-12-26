@@ -16,5 +16,5 @@ requires
 + CTRL + i	download embed subtitles
 
 ## Videocut
-
+![Horizon](/screenshot/videocutter.png)
 press c to start videocut menu
