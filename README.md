@@ -30,3 +30,4 @@ press c to start videocut menu
 
 + [youtube-download](https://github.com/cvzi/mpv-youtube-download)
 + [videoclip](https://github.com/Ajatt-Tools/videoclip)
++ [mpv-notify-send](https://github.com/emilazy/mpv-notify-send)
