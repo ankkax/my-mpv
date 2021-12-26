@@ -18,7 +18,8 @@ requires
 ## Videocut
 ![Horizon](/screenshot/videocutter.png)
 
-+ current location for cutted videos `$HOME/Videos/cuts`
++ current location for cutted videos `$HOME/Videos/`
++ current location for cutted audio  `$HOME/Music/`
 press c to start videocut menu
 
 ## Some links to scripts
