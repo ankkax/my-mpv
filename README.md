@@ -1,5 +1,9 @@
 # my-mpv
-Guide to use my mpv settings
+## Some information for current setup
+
+when you open your folder it makes automically playlist, when you open video from from that folder it will ask if you want to continue to episode you left of.
+
+## Guide to use my mpv settings
 requires
 + [yt-dlp](https://github.com/yt-dlp/yt-dlp) 
 + [ffmpeg](https://github.com/FFmpeg/FFmpeg)
@@ -17,7 +21,7 @@ requires
 
 ## Videocut
 ![Horizon](/screenshot/videocutter.png)
-
+* configs ~/.config/mpv/script-opts/videoclip.conf
 + current location for cutted videos `$HOME/Videos/`
 + current location for cutted audio  `$HOME/Music/`
 press c to start videocut menu
