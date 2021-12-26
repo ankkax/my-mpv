@@ -2,6 +2,7 @@
 ## Some information for current setup
 
 when you open your folder it makes automically playlist, when you open video from from that folder it will ask if you want to continue to episode you left of.
+* `e  r` to play previous or next videos in playlist
 * tip to use youtube with mpv download [ytfzf](https://github.com/pystardust/ytfzf)
 ## Guide to use my mpv settings
 requires
