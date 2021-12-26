@@ -6,8 +6,8 @@ requires
 + [mpv-mpris](https://github.com/hoyon/mpv-mpris) for media controls
 
 ## Youtube downloads
-+ configs '$HOME/.config/mpv/script-opts/youtube-download.conf'
-+ shortcut config '$HOME/.config/mpv/input.conf'
++ configs ´$HOME/.config/mpv/script-opts/youtube-download.conf´
++ shortcut config ´$HOME/.config/mpv/input.conf´
  
 
 + CTRL + d	downloads youtube video as mp4
@@ -22,4 +22,4 @@ press c to start videocut menu
 ## Some links to scripts
 
 + [youtube-download](https://github.com/cvzi/mpv-youtube-download)
-+ [videclip](https://github.com/Ajatt-Tools/videoclip)
++ [videoclip](https://github.com/Ajatt-Tools/videoclip)
