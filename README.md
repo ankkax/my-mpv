@@ -18,3 +18,8 @@ requires
 ## Videocut
 ![Horizon](/screenshot/videocutter.png)
 press c to start videocut menu
+
+## Some links to scripts
+
++ [youtube-download](https://github.com/cvzi/mpv-youtube-download)
++ [videclip](https://github.com/Ajatt-Tools/videoclip)
