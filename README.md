@@ -6,8 +6,8 @@ requires
 + [mpv-mpris](https://github.com/hoyon/mpv-mpris) for media controls
 
 ## Youtube downloads
-+ configs ''' $HOME/.config/mpv/script-opts/youtube-download.conf '''
-+ shortcut config ''' $HOME/.config/mpv/input.conf '''
++ configs '$HOME/.config/mpv/script-opts/youtube-download.conf'
++ shortcut config '$HOME/.config/mpv/input.conf'
  
 
 + CTRL + d	downloads youtube video as mp4
